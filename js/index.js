@@ -1,3 +1,4 @@
+//Code by jobanjit with the help of www.w3schools.com
 window.onscroll = function() {myFunction()};
 function myFunction() {
     console.log('in fn');
@@ -7,9 +8,10 @@ function myFunction() {
   console.log(scrolled);
   document.getElementById("myBar").style.width = scrolled + "%";
 }
+
+//Code by Jobanjit Singh
 document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById("header-nav").style.zIndex="1";
-       
+    document.getElementById("header-nav").style.zIndex="1";     
 
  }, false);
 
