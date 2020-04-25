@@ -12,6 +12,15 @@ body {
   height: 8px;
   background: #ccc;
 }
+.fixed-header{
+  background-color: #000000;
+}
+.sticky {
+  position: fixed;
+  top: 40px;
+  width: 100%;
+}
+
 .scrollbar{
   position: fixed;
   top: 0;
