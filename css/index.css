@@ -7,9 +7,6 @@ body {
   background-color: black;
   color: white;
 }
-/* .story {
-  padding: 0 1em;
-} */
 .progress-container {
   width: 100%;
   height: 8px;
@@ -39,18 +36,13 @@ body {
   display: flex;
   color: #fff;
   margin: 2em 0 0 20em;
-  font-family: ;
 }
-/* .logo {
-  flex-basis: 10em;
-} */
-
+/* Code by Nishant Malik and Jobanjit Singh*/
 .logo-top {
   height: 4em;
   margin-top: 0.5em;
   margin-left: 7em;
 }
-
 .un-list li {
   display: flex;
   margin: 0 7em 0 0;
@@ -68,21 +60,20 @@ body {
   position: relative;
 }
 .text-background{
-    position: absolute;  
-    color: #252b2f;
-    font-family: 'Bebas Neue', cursive;
-    font-size: 3em;
-    margin-top: -13em;
-    margin-left: 10em;
-    border: solid #96140f;
-    padding: 0.5em;
+  position: absolute;  
+  color: #252b2f;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 3em;
+  margin-top: -13em;
+  margin-left: 10em;
+  border: solid #96140f;
+  padding: 0.5em;
  }
 .r8{
   color: #96140f;
   font-size: 3em;
   font-family: 'Bebas Neue', cursive;
 }
-
 h1{
   display: flex;
   justify-content: center;
@@ -95,7 +86,6 @@ h1{
   margin-right: auto;
   width: 70%;
 }
-
 .orange p{
   text-align: center;
   font-family: 'Patrick Hand', cursive;
@@ -137,17 +127,15 @@ h2{
   font-size: 2em;
   font-family: 'Patrick Hand', cursive;
 }
-.handle img{
-  width: 500px;
-}
+.handle img{width: 500px;}
 .handle button{
-    background-color: black;
-    color: white;
-    border: 0.5em solid #96140f;
-    padding: 1em;
-    font-size: 1em;
-    margin-top: 1em;
-    font-family: 'Patrick Hand', cursive;
+  background-color: black;
+  color: white;
+  border: 0.5em solid #96140f;
+  padding: 1em;
+  font-size: 1em;
+  margin-top: 1em;
+  font-family: 'Patrick Hand', cursive;
 }
 .custom{
   display: flex;
@@ -160,21 +148,15 @@ h2{
   text-align: center;
   padding: 1em;
 }
-.footer{
-  display: flex;
-}
+.footer{display: flex;}
 .footer ul{
   display: flex;
   margin-top: 2em;
   font-family: 'Audiowide', cursive;
   font-size: 1em;
 }
-.footer li{
-  margin: 0 2em;
-}
-.footer img{
-  height: 4em;
-}
-.footer p{
-  font-family: 'Patrick Hand', cursive;
-}
+.footer li{margin: 0 2em;}
+.footer img{height: 4em;}
+.footer p{font-family: 'Patrick Hand', cursive;}
+
+/* Code By Nishant Malik and Jobanjit Singh */
