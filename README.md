@@ -1,6 +1,6 @@
 # PROJECT: UX TOOLING
-**DEVELOPER 1: NISHANT MALIK 
-**DEVELOPER 2: JOBANJIT SINGH
+## DEVELOPER 1: NISHANT MALIK 
+## DEVELOPER 2: JOBANJIT SINGH
 **CREATE DROP-IN UI COMPONENTS AND/OR TOOLS TO AUGMENT THE STANDARD BROWSER UI TO IMPROVE THE OVERALL USER EXPERIENCE FOR USERS READING AN ARTICLE**
 
 _This project was meant to be developed with a partner. Given the current circumstances (remote-only), you may opt to work alone if it is less stressful for you to do so._ 
