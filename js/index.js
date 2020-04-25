@@ -29,6 +29,15 @@ function myFunction() {
   document.getElementById("myBar").style.width = scrolled + "%";
 }
 
+//For mobile view navigation
+function mynavFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
 //Code by Jobanjit Singh and Nishant Malik
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById("header-nav").style.zIndex="1";   
