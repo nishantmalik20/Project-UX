@@ -1,7 +1,7 @@
 # PROJECT: UX TOOLING
 ## BY NISHANT MALIK and JOBANJIT SINGH
 ### Link to Final Project https://github.com/nishantmalik20/Project-UX/
-Area of Coding:
+Area of Coding:   
 NISHANT(Core HTML& CSS): Responsible for writing whole of HTML(Headers, bosy and footer) and CSS for this project and helped in JS wherever possible.   
 JOBANJIT(Core CSS & JS): Responsible for carrying out JS operations, mobile navigaiton and responsiveness of website.  
 
