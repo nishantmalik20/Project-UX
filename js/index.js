@@ -9,7 +9,7 @@ function myFunction() {
   document.getElementById("myBar").style.width = scrolled + "%";
 }
 
-//Code by Jobanjit Singh
+//Code by Jobanjit Singh and Nishant Malik
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById("header-nav").style.zIndex="1";     
 
