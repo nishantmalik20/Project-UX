@@ -2,8 +2,9 @@
 ## BY NISHANT MALIK and JOBANJIT SINGH
 ### Link to Final Project https://github.com/nishantmalik20/Project-UX/
 Area of Coding:
-NISHANT (Core HTML& CSS): Responsible for writing whole of HTML(Headers, bosy and footer) and CSS for this project and helped in JS wherever possible.   
-JOBANJIT SINGH(Core CSS & JS): Responsible for carrying out JS operations, mobile navigaiton and responsiveness of website.  
+NISHANT(Core HTML& CSS): Responsible for writing whole of HTML(Headers, bosy and footer) and CSS for this project and helped in JS wherever possible.   
+JOBANJIT(Core CSS & JS): Responsible for carrying out JS operations, mobile navigaiton and responsiveness of website.  
+
 **CREATE DROP-IN UI COMPONENTS AND/OR TOOLS TO AUGMENT THE STANDARD BROWSER UI TO IMPROVE THE OVERALL USER EXPERIENCE FOR USERS READING AN ARTICLE**
 
 _This project was meant to be developed with a partner. Given the current circumstances (remote-only), you may opt to work alone if it is less stressful for you to do so._ 
