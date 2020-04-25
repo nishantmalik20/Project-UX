@@ -7,6 +7,9 @@ body {
   background-color: black;
   color: white;
 }
+p{
+  font-family: 'Audiowide', cursive;
+}
 .progress-container {
   width: 100%;
   height: 8px;
@@ -100,7 +103,6 @@ h1{
 }
 .orange p{
   text-align: center;
-  font-family: 'Patrick Hand', cursive;
   font-size: 1.5em;
   margin-left: 10%;
   margin-right: 10%;
@@ -110,18 +112,12 @@ h1{
   width: 70%;
   margin: 3em auto;
   font-size: 2em;
-  font-family: 'Patrick Hand', cursive;
 }
 .red-s8 p, .red-s8-head p {
   margin-left: 1em;
   margin-right: 1em;
 }
-h2{
-  display: flex;
-  justify-content: center;
-  font-family: 'Gill Sans' , cursive;
-  font-size: 3em;
-}
+
 .performance {
   display: flex;
   justify-content: center;
@@ -217,6 +213,49 @@ h2{
     top: 15px;
   }
   .text-background{
-    position: center;
+  margin-top: -2.5em;
+  margin-left: 4em;
+  padding:0.5px;
+  height: 4em;
+  width: 7em;  
+  border: none;
   }
+  .text-background .dream{
+    display: none;
+  }
+  .text-background .r8{
+    font-size: 1em;
+  }
+ .red-s8, .red-s8-head, .handle{
+   display: initial;
+   width:90%;
+   font-size: 1.5em;
+ }
+ .custom-bp{
+   margin-left: 5em;
+ }
+ .red-s8 img, .red-s8-head img{
+   width: 90%;
+   margin-left: 1.5em;
+   margin-bottom: 1em;
+ }
+ .performance{
+   display: initial;
+  margin-left: auto;
+ }
+ .footer{
+   display: initial;
+ }
+   .audi-logo-footer{
+     margin-left: 10em;     
+   }
+   .copyrights{
+     font-weight: bold;
+     margin-left: 8em;
+   }
+   .logo-top{
+    margin-left: 2em;
+   }
+  
+
 }
