@@ -13,3 +13,10 @@ NISHANT and JOBANJIT, we both worked upon the project, equally carrying out all 
 - No external references are taken in HTML and CSS.
 - A little reference from https://www.w3schools.com  is taken in JS part.  
 
+#### For Jesse:
+THINGS TO TEST:
+
+- Issues were created for each documentation and enhancement. 
+- Issues were closed properly with added comments.
+- Commit messages were short and descriptive.
+- A comment is added for the "first commit".
