@@ -10,7 +10,7 @@ NISHANT and JOBANJIT, we both worked upon the project, equally carrying out all 
 - Responsiveness is added for three screen sizes, for iPhone, iPad, and desktop.
 - On iPad and iPhone, the navigation bar is placed with a red hamburger on the top right corner of the screen.
 ### References:
-- No external references are taken in HTML and CSS.
+- No external references were taken in HTML and CSS.
 - A little reference from https://www.w3schools.com  is taken in JS part.  
 
 #### For Jesse:
