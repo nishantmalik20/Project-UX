@@ -1,5 +1,6 @@
 # PROJECT: UX TOOLING
 ## BY: NISHANT MALIK and JOBANJIT SINGH
+Nishant Malik (N01350456), Jobanjit Singh (N01302646)
 ### Link to Final Project https://github.com/nishantmalik20/Project-UX/
 NISHANT and JOBANJIT, we both worked upon the project, equally carrying out all the operations. We both worked upon the project, first we build a website of our favorite automobile manufacturer using HTML and CSS and then we put enough content so that the page has enough content to scroll. Then we added some of the core UX changes.
  ### Things to test:
